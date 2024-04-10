@@ -35,5 +35,11 @@ li {
     padding: 5px 10px;
 }
 
+.navbar {
+    display: inline;
+    background-color: white;
+    font-size: 125%;
+    font-weight: bold;
+}
 
 
