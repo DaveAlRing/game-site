@@ -12,3 +12,8 @@ a {
 a:hover {
     color:cadetblue;
 }
+
+img {
+    height: auto;
+    width: 400px;
+}
