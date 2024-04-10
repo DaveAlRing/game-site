@@ -5,6 +5,10 @@
 
 }
 
-.link {
+a {
     color:aliceblue;
+}
+
+a:hover {
+    color:cadetblue;
 }
