@@ -6,14 +6,29 @@
 }
 
 a {
-    color:aliceblue;
+    color:rgb(2, 174, 174);
+    background-color: transparent;
 }
 
 a:hover {
-    color:cadetblue;
+    color:lightblue;
 }
 
 img {
     height: auto;
     width: 400px;
 }
+
+ul {
+    box-shadow: 5px 5px 5px rgb(2, 174, 174);
+    list-style-position: inside;
+    padding: 10px 20px;
+}
+
+li {
+    background-color: black;
+    padding: 5px 10px;
+}
+
+
+
