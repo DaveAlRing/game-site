@@ -3,9 +3,9 @@
     padding: 0;
     box-sizing: border-box;
     font-family: Arial, Helvetica, sans-serif;
-    font-size: 18px;
+    font-size: 20px;
     color:mediumpurple;
-    background-color: black;
+    background-color: rgb(21, 21, 21);
 
 }
 
@@ -22,18 +22,18 @@ img {
     height: auto;
     width: 400px;
     margin-top: 10px;
-    border: 5px solid white;
+    border: 5px solid rgb(232, 229, 229);
     box-shadow: 5px 5px 5px teal;
 }
 
 h1 {
     font-style: italic;
-    font-size: 26px;
+    font-size: 30px;
 }
 
 p, h1 {
     box-shadow: 5px 5px 5px teal;
-    background-color: white;
+    background-color: rgb(232, 229, 229);
     padding: 5px;
     margin: 30px;
 }
@@ -60,7 +60,7 @@ nav {
     display: flex;
     flex-flow: row nowrap;
     justify-content: space-evenly;
-    background-color: white;
+    background-color: rgb(232, 229, 229);
     padding: 15px;
     border:10px solid teal;
 }
@@ -69,7 +69,7 @@ button {
     border: 0px;
     font-size: 16px;
     font-weight: bold;
-    background-color: white;
+    background-color: rgb(232, 229, 229);
     padding: 10px;
     box-shadow: 3px 3px 3px teal;
 }
