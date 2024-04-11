@@ -34,6 +34,7 @@ nav {
 }
 
 button {
+    font-weight: bold;
     background-color: white;
     padding: 10px;
 }
