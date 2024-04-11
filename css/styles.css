@@ -24,22 +24,6 @@ h1 {
     font-style: italic;
 }
 
-ul {
-    box-shadow: 5px 5px 5px rgb(2, 174, 174);
-    list-style-position: inside;
-    padding: 10px 20px;
-}
 
-li {
-    background-color: black;
-    padding: 5px 10px;
-}
-
-.navbar {
-    display: inline;
-    background-color: white;
-    font-size: 125%;
-    font-weight: bold;
-}
 
 
