@@ -19,8 +19,8 @@ a:hover {
 }
 
 img {
-    height: auto;
-    width: 400px;
+    height: 500px;
+    width: auto;
     margin-top: 10px;
     border: 5px solid rgb(232, 229, 229);
     box-shadow: 5px 5px 5px teal;
@@ -43,17 +43,19 @@ p {
     padding-bottom: 15px;
 }
 
- ul, ol, li {
-    margin: 10px;
-}
-
 ol {
+    margin: auto;
+    width: 50%;
     font-size: 20px;
 }
 
+ul {
+    display: flex;
+    list-style: none;
+}
+
 li {
-    margin-left: 50px;
-    margin-top: 10px;
+    padding: 15px;
 }
 
 nav {
