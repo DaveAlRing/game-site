@@ -20,11 +20,16 @@ a:hover {
 img {
     height: auto;
     width: 400px;
+    margin-top: 10px;
+    border: 5px solid white;
+    box-shadow: 5px 5px 5px teal;
 }
 
 h1 {
-    box-shadow: 5px 5px 5px rgb(2, 174, 174);
+    box-shadow: 5px 5px 5px teal;
+    background-color: white;
     font-style: italic;
+    padding: 5px;
     margin: 30px;
 }
 
@@ -46,10 +51,16 @@ nav {
 }
 
 button {
+    border: 0px;
+    font-size: 16px;
     font-weight: bold;
     background-color: white;
     padding: 10px;
     box-shadow: 3px 3px 3px teal;
+}
+
+button:hover {
+    color: teal;
 }
 
 .title {
