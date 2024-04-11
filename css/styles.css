@@ -37,6 +37,7 @@ button {
     font-weight: bold;
     background-color: white;
     padding: 10px;
+    box-shadow: 3px 3px 3px teal;
 }
 
 
