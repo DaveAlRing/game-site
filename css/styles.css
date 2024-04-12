@@ -38,7 +38,7 @@ h2 {
 p, h1, .navRank {
     box-shadow: 5px 5px 5px teal;
     background-color: rgb(232, 229, 229);
-    padding: 5px;
+    padding: 15px;
     margin: 30px;
 }
 
@@ -48,7 +48,9 @@ p {
 }
 
 ol {
+    flex: 1;
     margin: auto;
+    padding: 20px;
     width: 50%;
 }
 
@@ -86,6 +88,13 @@ button:hover {
     color: teal;
 }
 
-
+.container {
+    background-color: rgb(21, 21, 21);
+    padding: 10px;
+    border: 5px solid white;
+    margin: 5px;
+    box-shadow: 3px 3px 3px teal;
+    display: flex;
+}
 
 
