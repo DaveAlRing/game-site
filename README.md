@@ -1,3 +1,3 @@
 # game-site
 
-Gaming blog to practice HTML
+Person blog for practicing html, css, javascirpt, and other fullstack concepts.
