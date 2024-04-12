@@ -37,7 +37,6 @@ h2 {
 
 p, h1, .navRank {
     box-shadow: 5px 5px 5px teal;
-    background-color: rgb(232, 229, 229);
     padding: 15px;
     margin: 30px;
 }
@@ -48,14 +47,15 @@ p {
 }
 
 ol {
-    flex: 1;
+    display: flex;
+    flex-wrap: wrap;
     margin: auto;
     padding: 20px;
-    width: 50%;
 }
 
 ul {
     list-style: none;
+    flex-wrap: wrap;
 }
 
 .flexList {
@@ -64,6 +64,8 @@ ul {
 
 li {
     padding: 5px;
+    width: max-content;
+    flex-wrap: wrap;
 }
 
 nav {
