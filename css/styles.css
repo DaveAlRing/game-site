@@ -30,14 +30,12 @@ h1 {
     font-size: 30px;
 }
 
-h2 {
-    font-size: 26px;
-}
-
 p, h1, .navRank {
     box-shadow: 5px 5px 5px teal;
     padding: 15px;
-    margin: 30px;
+    margin-bottom: 20px;
+    margin-top: 10px;
+    margin-right: 10px;
 }
 
 p {
