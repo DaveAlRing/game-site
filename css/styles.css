@@ -31,6 +31,10 @@ h1 {
     font-size: 30px;
 }
 
+h2 {
+    font-size: 26px;
+}
+
 p, h1 {
     box-shadow: 5px 5px 5px teal;
     background-color: rgb(232, 229, 229);
@@ -46,7 +50,6 @@ p {
 ol {
     margin: auto;
     width: 50%;
-    font-size: 20px;
 }
 
 ul {
@@ -82,12 +85,6 @@ button {
 button:hover {
     color: teal;
 }
-
-.title {
-    font-weight: bold;
-    font-size: large;
-}
-
 
 
 
