@@ -46,7 +46,7 @@ p {
 ol {
     display: flex;
     flex-wrap: wrap;
-    margin-left: 600px;
+    margin-left: auto;
     margin-right: auto;
     padding: 20px;
     width: 500px;
